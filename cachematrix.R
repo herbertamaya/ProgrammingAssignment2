@@ -1,6 +1,6 @@
-## The following two functions calculates and cache the inverse
+## The following two functions calculate and cache the inverse
 ## of a given matrix. Caching this calculation increases the
-## the performance of the program because matrix inversion is
+## the performance of the program as matrix inversion is
 ## usually costly computation.
 
 ## This function creates a special 'matrix' object that can cache
